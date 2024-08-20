@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ap1BI/sqrjo=",
+  "dgSpecHash": "4jQogTKGmLE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "C:\\Users\\wxdan\\Documents\\Treinamento-Inicial---Projeto-Smart-Cloud-Prix-4\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wxdan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
