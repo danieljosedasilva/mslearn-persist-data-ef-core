@@ -2,7 +2,6 @@ using ContosoPizza.Models;
 using ContosoPizza.Data;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace ContosoPizza.Services;
 
 public class PizzaService
