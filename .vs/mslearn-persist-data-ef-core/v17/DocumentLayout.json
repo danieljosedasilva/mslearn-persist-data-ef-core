@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Dados\\PizzaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContosoPizza\\Dados\\PizzaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 526,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a975660a-81e4-4830-aa25-1b824c3bf732}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240820191902_ModelRevisions.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\20240820191902_ModelRevisions.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:06:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240820191902_ModelRevisions.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\20240820191902_ModelRevisions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:06:46.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240820190801_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\20240820190801_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:06:46.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240820190801_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\20240820190801_InitialCreate.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:05:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs",
+              "RelativeToolTip": "ContosoPizza\\Migrations\\PizzaContextModelSnapshot.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:05:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Dados\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "ContosoPizza\\Dados\\PizzaContext.cs",
+              "ToolTip": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\Dados\\PizzaContext.cs",
+              "RelativeToolTip": "ContosoPizza\\Dados\\PizzaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:03:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
