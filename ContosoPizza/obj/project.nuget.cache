@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "rzbBRQiICuI=",
   "success": true,
   "projectFilePath": "C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
-=======
-  "dgSpecHash": "4jQogTKGmLE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\wxdan\\Documents\\Treinamento-Inicial---Projeto-Smart-Cloud-Prix-4\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
->>>>>>> 7c98002da26096703a38d2abf84c6fceadf763cd
   "expectedPackageFiles": [
     "C:\\Users\\wxdan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\wxdan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -63,8 +57,13 @@
     "C:\\Users\\wxdan\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\wxdan\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-<<<<<<< HEAD
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\wxdan\\Documents\\ProjectC#\\mslearn-persist-data-ef-core\\ContosoPizza\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1900",
       "level": "Warning",
@@ -72,7 +71,4 @@
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://tdbaplicativos.pkgs.visualstudio.com/_packaging/Toledo-do-Brasil-Packages/nuget/v3/index.json."
     }
   ]
-=======
-  "logs": []
->>>>>>> 7c98002da26096703a38d2abf84c6fceadf763cd
 }
